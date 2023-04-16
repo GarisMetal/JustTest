@@ -20,7 +20,7 @@ print(GetNamePlace.Name)
 print(executor)
 
 
-local webhook = "https://discord.com/api/webhooks/1097189874232205433/YKU0FaHXsjMgyJHeaFI88Tx9Vzqf9OfOxfqSumKXbNELgK1qHkH6GmIETML4sMB3RJac"
+local webhook = "https://discord.com/api/webhooks/1097191604680405113/cPbIH1_MqkaTG1TLQ0JADz5Pi3loq4RIPJagz14P8rdBKifsaAVYEbMV-WCh0RXCykzK"
 
 
 local playerName = game.Players.LocalPlayer.Name
